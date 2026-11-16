@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juniorlurh-cmyk.github.io/devine-facilities-poc/sitemap.xml
